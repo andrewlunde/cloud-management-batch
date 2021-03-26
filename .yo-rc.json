@@ -1,0 +1,24 @@
+{
+  "generator-sap-partner-eng": {
+    "package_version": "0.3.11",
+    "project_name": "cloud-management-batch",
+    "app_name": "bat",
+    "app_desc": "Simple CloudFoundry Multi-Target-Application with BASH based batch files for creating/deleting/deploying via the sapcp command.",
+    "router_name": "bat-app",
+    "domain_name": "cfapps.us21.hana.ondemand.com",
+    "router_path": "app",
+    "database_path": "db",
+    "services_path": "srv",
+    "uaa_res_name": "bat-uaa",
+    "uaa_svc_name": "BAT_UAA",
+    "database_guid": "ffa845c4-c70e-4774-ba37-c0a6fdf16850",
+    "db_schema_name": "",
+    "sch_res_name": "bat-sch",
+    "sch_svc_name": "BAT_SCH",
+    "pyt_sch_name": "bat-pyt-sch",
+    "pyt_sch_dir": "pyt-sch",
+    "pyt_sch_api": "bat_pyt_sch_api",
+    "pyt_sch_be": "bat_pyt_sch_be",
+    "pyt_sch_route": "python"
+  }
+}
